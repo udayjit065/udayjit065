@@ -121,7 +121,7 @@ Responsibilities include:
 
 # Selected Projects
 
-## VYUGEN — Semantic Question Retrieval System  
+## VYUGEN — Question Retrieval System  
 https://vyu-gen.vercel.app/home
 
 Semantic search system for structured academic question datasets.
