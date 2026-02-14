@@ -1,8 +1,6 @@
-# Udayjit
-
 # 👋 Hi, I'm Udayjit
 
-🚀 Full Stack AI Engineer | ML Builder | Startup Developer  
+Full Stack AI Engineer | ML Builder | Startup Developer at 360labs.ai
 
 I build and deploy AI-driven products end-to-end — from model training to production APIs and scalable systems.
 
@@ -13,7 +11,7 @@ Currently working on:
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **AI / ML**
 Python, Scikit-learn, TensorFlow, PyTorch, NLP, LLMs
@@ -54,14 +52,14 @@ Tech: HuggingFace, PyTorch
 ---
 
 ## 📫 Connect with me
-LinkedIn: [link]
-Portfolio: [link]
-Email: [email]
+LinkedIn: https://www.linkedin.com/in/udayjit/
+Phone : 6280082696
+Email: Udayjit065@gmail.com
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udayjit065&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udayjit065&layout=compact)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udayjit065)
