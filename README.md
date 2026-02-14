@@ -1,9 +1,9 @@
 # Udayjit
 
-Full Stack AI Engineer  
+Full Stack AI Engineer 
 Building production applications that combine machine learning, real-time processing, and scalable backend systems.
 
-Currently working at 360labs on applied AI features, system integration, and full stack product development in live environments.
+Currently working at 360labs.ai on applied AI features, system integration, and full stack product development in live environments.
 
 Primary interests:
 - Applied machine learning in production systems  
@@ -103,7 +103,7 @@ Persistence • deployment • environment management
 
 ---
 
-# Professional Work — 360labs
+# Professional Work — @360labs.ai
 
 Working on production AI and full stack systems deployed in real user environments.
 
