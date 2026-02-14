@@ -58,7 +58,7 @@ Email: Udayjit065@gmail.com
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=udayjit065&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udayjit065&theme=tokyo-night" />
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=udayjit065&layout=compact&theme=tokyonight" />
 
