@@ -46,10 +46,6 @@ Tech: HuggingFace, PyTorch
 
 ---
 
-## 📊 GitHub Stats
-(we add this later)
-
----
 
 ## 📫 Connect with me
 LinkedIn: https://www.linkedin.com/in/udayjit/
@@ -57,10 +53,6 @@ Phone : 6280082696
 Email: Udayjit065@gmail.com
 
 ## 📊 GitHub Stats
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udayjit065&theme=tokyo-night" />
-
-<img src="https://activity-graph.herokuapp.com/graph?username=udayjit065&theme=tokyonight" />
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udayjit065&theme=tokyo-night)
