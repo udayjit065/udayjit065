@@ -56,9 +56,11 @@ LinkedIn: https://www.linkedin.com/in/udayjit/
 Phone : 6280082696
 Email: Udayjit065@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udayjit065&show_icons=true&theme=tokyonight&cache_seconds=1800)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udayjit065&layout=compact&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=udayjit065&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=udayjit065&layout=compact&theme=tokyonight" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udayjit065&theme=tokyo-night)
 
