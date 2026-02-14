@@ -136,28 +136,65 @@ Working on production AI systems and full stack applications used in real user e
 
 
 ---
-
-# 🔥 Featured Projects
-
-### 🤖 AI Question Retrieval System
-Semantic search engine for structured academic datasets.  
-Built NLP pipeline for intelligent query matching and topic-based retrieval.
-
-Tech: Python • Machine Learning • NLP  
+# 🚀 Product & Project Showcase
 
 ---
 
-### 🎵 Spotify Recommendation System
-Machine learning based recommendation engine using similarity analysis and user listening patterns.
+## ⭐ Highlighted AI Products
+
+### 🧠 VYUGEN — AI Knowledge & Question Intelligence Platform  
+🔗 Live Demo: https://vyu-gen.vercel.app/home  
+
+AI-powered system for intelligent question retrieval, structured dataset exploration, and semantic search across academic content.
+
+**What I built**
+- NLP-based semantic question retrieval engine  
+- Topic-aware search and filtering system  
+- Structured dataset processing pipeline  
+- Full stack application with AI-powered backend  
+
+**Tech Stack**
+Python • NLP • Machine Learning • Node.js • React • Cloud Deployment  
+
+**Note**  
+Live demo is hosted in a limited environment — some functionality may be restricted due to deployment constraints.
+
+---
+
+### 🎙 Vocalize AI — Voice Interaction & AI Response System  
+🔗 Live Demo: https://vocalize-demo.vercel.app/  
+
+Voice-enabled AI interaction platform that processes spoken input and generates intelligent responses using speech processing and AI inference.
+
+**What I built**
+- Voice input processing pipeline  
+- AI response generation workflow  
+- Backend integration for real-time interaction  
+- Full stack interface for conversational flow  
+
+**Tech Stack**
+Speech Processing • AI APIs • Node.js • Frontend Integration • Real-time Interaction  
+
+**Note**  
+Demo version runs in restricted API mode — output generation may be limited without active API credentials.
+
+---
+
+## 📌 Supporting Machine Learning Projects
+
+### 🎵 Spotify Recommendation System  
+Machine learning recommendation engine based on similarity analysis and user listening patterns.
 
 Tech: Python • Pandas • Scikit-learn  
 
 ---
 
-### 💬 Sentiment Analysis (DistilBERT)
-Transformer-based sentiment classification with pretrained model fine-tuning and evaluation.
+### 💬 Sentiment Analysis (DistilBERT)  
+Transformer-based sentiment classification using pretrained language models and fine-tuning.
 
 Tech: Hugging Face • PyTorch  
+
+---
 
 ---
 
