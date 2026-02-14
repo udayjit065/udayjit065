@@ -10,80 +10,16 @@ Currently working on:
 - Production ML pipelines
 
 ---
+## 🧠 AI Engineering
 
-## Tech StackAI / Machine Learning
+🔹 NLP & Semantic Search  
+🔹 Transformer Models (BERT, DistilBERT)  
+🔹 Model Training & Optimization  
+🔹 Feature Engineering  
 
-Supervised & Unsupervised Learning
+🛠 Tools  
+Python • PyTorch • TensorFlow • Hugging Face
 
-NLP (Text Classification, Semantic Search)
-
-Transformer Models (BERT, DistilBERT)
-
-Model Training, Evaluation & Optimization
-
-Feature Engineering & Data Preprocessing
-
-Libraries & Frameworks
-
-PyTorch
-
-TensorFlow
-
-Scikit-learn
-
-Hugging Face Transformers
-
-Pandas, NumPy
-
-⚙ Backend Development
-
-Node.js, Express.js
-
-Flask API development
-
-REST API design
-
-Authentication & Middleware
-
-Model deployment APIs
-
-🎨 Frontend Development
-
-React.js
-
-Next.js
-
-Tailwind CSS
-
-Responsive UI design
-
-API integration
-
-🗄 Databases & Storage
-
-MongoDB
-
-Firebase Firestore
-
-SQL databases
-
-☁ DevOps & Tools
-
-Git & GitHub workflow
-
-Docker containerization
-
-Linux environment
-
-Cloud deployment (basic)
-
-📊 Data & Analytics
-
-Data cleaning & transformation
-
-Exploratory Data Analysis
-
-Visualization
 ---
 
 ## 🔥 Featured Projects
