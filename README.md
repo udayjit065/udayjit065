@@ -11,23 +11,79 @@ Currently working on:
 
 ---
 
-## Tech Stack
+## Tech StackAI / Machine Learning
 
-**AI / ML**
-Python, Scikit-learn, TensorFlow, PyTorch, NLP, LLMs
+Supervised & Unsupervised Learning
 
-**Backend**
-Node.js, Express, Flask, REST APIs
+NLP (Text Classification, Semantic Search)
 
-**Frontend**
-React, Next.js, Tailwind CSS
+Transformer Models (BERT, DistilBERT)
 
-**Database**
-MongoDB, Firebase, SQL
+Model Training, Evaluation & Optimization
 
-**Tools**
-Docker, Git, Linux, Cloud Deployment
+Feature Engineering & Data Preprocessing
 
+Libraries & Frameworks
+
+PyTorch
+
+TensorFlow
+
+Scikit-learn
+
+Hugging Face Transformers
+
+Pandas, NumPy
+
+⚙ Backend Development
+
+Node.js, Express.js
+
+Flask API development
+
+REST API design
+
+Authentication & Middleware
+
+Model deployment APIs
+
+🎨 Frontend Development
+
+React.js
+
+Next.js
+
+Tailwind CSS
+
+Responsive UI design
+
+API integration
+
+🗄 Databases & Storage
+
+MongoDB
+
+Firebase Firestore
+
+SQL databases
+
+☁ DevOps & Tools
+
+Git & GitHub workflow
+
+Docker containerization
+
+Linux environment
+
+Cloud deployment (basic)
+
+📊 Data & Analytics
+
+Data cleaning & transformation
+
+Exploratory Data Analysis
+
+Visualization
 ---
 
 ## 🔥 Featured Projects
