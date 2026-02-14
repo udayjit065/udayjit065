@@ -1,4 +1,4 @@
-# 👋 Hi, I'm udayjit065
+# 👋 Hi, I'm Udayjit
 
 Full Stack AI Engineer | ML Builder | Startup Developer at @360labs.ai
 
