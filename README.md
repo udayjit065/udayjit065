@@ -64,7 +64,7 @@ Email: [email]
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udayjit065)
 
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
